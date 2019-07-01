@@ -6,7 +6,7 @@ Email: artussuy7@gmail.com
 
 # Sobre mim
 
-Atualmente atuo como front utilizando HTML, SCSS, JS, JQuery e Angular 2+, entendo a sintaxe de linguagens back-end como PHP, phyton e Golang. Atualmente me considero pleno. Gosto muito de aprender tecnologias novas, possuo o ingles fluente.
+Atuo como front utilizando HTML, SCSS, JS, JQuery e Angular 2+, entendo a sintaxe de linguagens back-end como PHP, phyton e Golang. Atualmente me considero pleno. Gosto muito de aprender tecnologias novas, possuo o ingles fluente.
 
 Não programo desde o começo do ano, meu último emprego era em um lugar extremamente tóxico e isso me desanimou em relação a area de programação. Meu plano hoje é entrar em uma vaga com um perfil um pouco mais júnior do que o meu emprego anterior e me desenvolver do começo novamente.
 
