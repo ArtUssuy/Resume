@@ -29,11 +29,11 @@ Não programo desde o começo do ano, meu último emprego era em um lugar extrem
   
 # Experiência profissional
 
-Desenvolvedor Front-end - Épico Digital - 08/2017 - 02/2018
+<b>Desenvolvedor Front-end - Épico Digital - 08/2017 - 02/2018</b>
   
   Desenvolve páginas e serviços de acesso ao banco de dados de acordo com as especificações funcionais enviadas pelo clientes, no caso a SPTrans. As páginas são desenvolvidas tanto para o usuário final (site público da SPTrans) quanto o interno, onde seus funcionários gerenciam as atividades referentes a empresa.
     
-Desenvolvedor Front-end - Captalys - 02/2018 - 01/2019
+<b>Desenvolvedor Front-end - Captalys - 02/2018 - 01/2019</b>
 
-  Desenvolvedor Front-end. Atua diretamente na criação da estrutura em relação a diretórios, arquivos e dados de cada projeto. Projetos são enviados pelas mais diversas áreas, desde relacionados a processos internos da empresa, quanto para o cliente final.
+  Atua diretamente na criação da estrutura em relação a diretórios, arquivos e dados de cada projeto. Projetos são enviados pelas mais diversas áreas, desde relacionados a processos internos da empresa, quanto para o cliente final.
     
