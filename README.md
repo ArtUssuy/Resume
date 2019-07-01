@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/arthur-ussuy-255940138/">Linkedin</a>
 
-Email: artussuy@icloud.com
+Email: artussuy7@gmail.com
 
 # Sobre mim
 
