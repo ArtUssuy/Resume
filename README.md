@@ -1,12 +1,16 @@
 # Arthur Ussuy Ferrari
 
-<a href="https://www.linkedin.com/in/arthur-ussuy-255940138/">Linkedin</a>
+<a href="https://www.linkedin.com/in/arthur-ferrari-255940138/">Linkedin</a>
 
 Email: artussuy7@gmail.com
 
-# Sobre mim
+# About me
 
-Atuo como front utilizando HTML, SCSS, JS, JQuery e Angular 2+, entendo a sintaxe de linguagens back-end como PHP, phyton e Golang. Atualmente me considero pleno. Gosto muito de aprender tecnologias novas, possuo o ingles fluente.
+Hello, my name is Arthur and my mission is to make the internet a more accessible place for all users. 
+
+I'm a front-end specialist interested in issues related to WEB performance, mainly SEO (Search Engine Optimize). However, I like to touch on any engineering matters and even aspects of the business. 
+
+For me the design and implementation of projects depends on many factors beyond the technical part. Aspects such as prioritization, estimates, communication and synchronization are key factors for projects of success.
 
 # Alguns dos sites que desenvolvi:
   
