@@ -1,6 +1,9 @@
 # Arthur Ussuy Ferrari
 
-<a href="https://www.linkedin.com/in/arthur-ferrari-255940138/">Linkedin</a>
+<a href="">Linkedin</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipefialho](https://www.linkedin.com/in/arthur-ferrari-255940138/))]([https://www.linkedin.com/in/felipefialho](https://www.linkedin.com/in/arthur-ferrari-255940138/))
+
 
 Email: artussuy7@gmail.com
 
