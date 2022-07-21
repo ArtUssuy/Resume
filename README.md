@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ferrari-255940138/)](https://www.linkedin.com/in/arthur-ferrari-255940138/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&href=mailto:artussuy7@gmail.com)](mailto:artussuy7@gmail.com)
-
 
 # About me
 
