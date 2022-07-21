@@ -1,7 +1,5 @@
 # Arthur Ussuy Ferrari
 
-<a href="">Linkedin</a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipefialho](https://www.linkedin.com/in/arthur-ferrari-255940138/))]([https://www.linkedin.com/in/felipefialho](https://www.linkedin.com/in/arthur-ferrari-255940138/))
 
 
